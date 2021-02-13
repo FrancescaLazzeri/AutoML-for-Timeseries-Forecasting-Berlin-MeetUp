@@ -3,10 +3,6 @@
 1. [Setup using Compute Instances](#jupyter)
 1. [Setup using a Local Conda environment](#localconda)
 1. [Setup using Azure Databricks](#databricks)
-1. [Automated ML SDK Sample Notebooks](#samples)
-1. [Documentation](#documentation)
-1. [Running using python command](#pythoncommand)
-1. [Troubleshooting](#troubleshooting)
 
 <a name="introduction"></a>
 # Automated ML introduction
