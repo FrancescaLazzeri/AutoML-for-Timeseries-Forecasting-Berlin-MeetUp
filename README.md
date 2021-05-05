@@ -19,7 +19,7 @@ Below are the three execution environments supported by automated ML.
  <a name="jupyter"></a>
 ## Setup using Compute Instances - Jupyter based notebooks from a Azure Virtual Machine
 
-1. Open the [ML Azure portal](https://ml.azure.com)
+1. Open the [ML Azure portal](https://ml.azure.com/?WT.mc_id=academic-0000-lazzeri)
 1. Select Compute
 1. Select Compute Instances
 1. Click New
